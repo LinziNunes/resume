@@ -2,7 +2,7 @@
 
 Linzi Nunes Resume, built with Webpack, Pug and Css.
 
- ![screenshot](https://github.com/LinziNunes/resume/blob/master/screenshotcapture-localhost.png)
+ ![screenshot](https://github.com/LinziNunes/resume/blob/master/screencapture-localhost.pdf)
 
 # Getting started
 
