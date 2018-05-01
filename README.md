@@ -16,7 +16,7 @@ yarn start
 ```
 
 Windows:
-You will need to install Chocolatey which you can do [here] (https://chocolatey.org/install).
+You will need to install Chocolatey which you can do [here](https://chocolatey.org/install).
 
 ```
 choco install yarn
