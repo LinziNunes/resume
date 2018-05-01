@@ -2,7 +2,7 @@
 
 Linzi Nunes Resume, built with Webpack, Pug and Css.
 
- [Screenshot](https://github.com/LinziNunes/resume/blob/master/linziNunes010518.png)
+ [Screenshot](https://github.com/LinziNunes/resume/blob/master/linziNunes010518.pdf)
 
 # Getting started
 Pre-Requisitites:
