@@ -1,23 +1,23 @@
 # Resume
 
-Resume of Linzi Nunes, built with Webpack + Pug + Postcss.
+Linzi Nunes Resume, built with Webpack, Pug and Css.
 
- <> ![screenshot](https://github.com/acro5piano/resume/blob/master/screenshot.en.png)
+ ![screenshot](https://github.com/LinziNunes/resume/blob/master/screenshotcapture-localhost.png)
 
 # Getting started
 
-After checking out the repo, run:
+If you would like to run this application locally. After checking out the repo, run:
 
 ```
 yarn install
 yarn start
 ```
 
-open localhost:3000 and you can see my resume.
+open localhost:3000 and you will see the resume.
 
 # Write your resume with this template
 
-Feel free to write your resume with this template, if you are enough odd to do so.
+Feel free to write your resume with this template.
 
 - `src/app.postcss` is for css
 - `src/index.pug` is for template
@@ -35,4 +35,4 @@ This runs your Chrome headlessly and take an image.
 
 # TODO
 
-
+- Add Automation to pull data from Linkedin to fill out/update all fields 
