@@ -63,7 +63,7 @@ li {
 .eyecatch-icons {
 	float: right;
 	padding-right: 50px;
-	padding-bottom: 40px;
+	padding-bottom: ;
 }
 
 .eyecatch-linkedin {
@@ -75,6 +75,7 @@ li {
 .eyecatch-description {
   margin-right:30%;
   height:120px;
+  text: justify;
 
 }
 	
@@ -84,6 +85,7 @@ li {
   height: 200px;
   margin-top: 40px;
   float: right;
+  border-radius: 50%;
 
   
 }
